@@ -1,3 +1,2 @@
 # ProjetoAutoma-o
-O projeto consiste em criar dois pontos de automação com switches e desenvolver uma interface para executar as automações de forma prática como um painel de controle. 
-Basicamente vou desenvolver uma interface com o dia, hora, clima, temperatura e os botões de automação. A ideia seria usar API´S para me ajudar no projeto.
+ O projeto tem como objetivo automatizar processos através de switches relé e criar uma interface intuitiva de controle. Recentemente, descobri a ferramenta Flutter para desenvolvimento móvel e achei que ela seria perfeita para o nosso projeto. A partir de agora, vou usa-lá para dar vida ao nosso projeto de automação."
